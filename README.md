@@ -27,6 +27,15 @@
 - [event.target과 event.currentTarget의 차이점](notes/javascript/event-current-target.md)
 - [Map과 Set 설명 및 차이점](notes/javascript/map-set.md)
 
+## CSS
+
+- [CSS에서 margin과 padding에 대해서 설명해주세요.](notes/css/margin-padding.md)
+- [CSS에서 position을 어떻게 사용하는지 설명해주세요.](notes/css/position.md)
+- [Flex 속성 설명해주세요.](notes/css/flex.md)
+- [Box model에 대해 설명해주세요.](notes/css/box-model.md)
+- [Display에 대해 설명해주세요.](notes/css/display.md)
+- [CSS 애니메이션과 JS 애니메이션의 차이점](notes/css/css-animation-js-animation.md)
+
 ## 브라우저 / 네트워크
 
 - [브라우저의 렌더링 원리에 대해 설명해주세요.](notes/browser-network/browser-rendering.md)
